@@ -1,0 +1,23 @@
+{
+  "name": "marvel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saradraj/marvel.git"
+  },
+  "author": "Sarad Rajbhandari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saradraj/marvel/issues"
+  },
+  "homepage": "https://github.com/saradraj/marvel#readme",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "node-fetch": "^2.6.0"
+  }
+}

@@ -1,0 +1,8 @@
+// API Documentation
+https://developer.marvel.com/docs#!/public/getCreatorCollection_get_0
+
+// Get list of characters
+GET https://gateway.marvel.com/v1/public/characters?apikey=d0c22ebaec8cf66b34b6514b7b7dae5c&hash=fd50be121b33b8b783a2306a864b9f4b&ts=1
+
+// Get list of comics
+http://gateway.marvel.com/v1/public/comics/24571?apikey=d0c22ebaec8cf66b34b6514b7b7dae5c&hash=fd50be121b33b8b783a2306a864b9f4b&ts=1
